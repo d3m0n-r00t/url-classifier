@@ -15,4 +15,4 @@ python3 logistic_regression_classifier.py
 NOTE: Make sure the data.csv is in the same folder as the tool.
 
 
-![alt text]https://screenshots.firefox.com/pyTFKtsUrCMk19Sr/colab.research.google.com
+![alt text](https://screenshots.firefox.com/pyTFKtsUrCMk19Sr/colab.research.google.com)
