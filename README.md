@@ -14,5 +14,4 @@ python3 logistic_regression_classifier.py
 
 NOTE: Make sure the data.csv is in the same folder as the tool.
 
-
-![alt text](https://raw.githubusercontent.com/d3m0n-r00t/url-classifier/blob/master/Screenshot_2019-07-24%20Google%20Colaboratory.png)
+![Screenshot_2019-07-24 Google Colaboratory](https://user-images.githubusercontent.com/29670330/61772502-16fe8700-ae10-11e9-9293-e7abac79afa6.png)
